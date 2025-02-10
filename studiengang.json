@@ -1,0 +1,206 @@
+{
+    "name": "B.Sc. Software Entwicklung",
+    "benoetigte_ects": 180,
+    "semester": [
+        {
+            "name": "1. Semester",
+            "module": [
+                {
+                    "name": "Datenmodellierung und Datenbanksysteme",
+                    "note": 2.7,
+                    "ects": 5
+                },
+                {
+                    "name": "Grundlagen der industriellen Softwaretechnik",
+                    "note": 2.0,
+                    "ects": 5
+                },
+                {
+                    "name": "Requirements Engineering",
+                    "note": 1.7,
+                    "ects": 5
+                },
+                {
+                    "name": "Spezifikation",
+                    "note": 2.7,
+                    "ects": 5
+                },
+                {
+                    "name": "Grundlagen der objektorientierten Programmierung mit Java",
+                    "note": 3.0,
+                    "ects": 5
+                },
+                {
+                    "name": "Einführung in das wissenschaftliche Arbeiten",
+                    "note": "Bestanden",
+                    "ects": 5
+                }
+            ]
+        },
+        {
+            "name": "2. Semester",
+            "module": [
+                {
+                    "name": "Kollaboratives Arbeiten",
+                    "note": "Bestanden",
+                    "ects": 5
+                },
+                {
+                    "name": "IT-Architekturmanagement",
+                    "note": 2.3,
+                    "ects": 5
+                },
+                {
+                    "name": "Qualitätssicherung im Softwareprozess",
+                    "note": 3.0,
+                    "ects": 5
+                },
+                {
+                    "name": "Algorithmen, Datenstrukturen und Programmiersprachen",
+                    "note": 2.7,
+                    "ects": 5
+                },
+                {
+                    "name": "Programmierung von Webanwendungsoberflächen",
+                    "note": 3.3,
+                    "ects": 5
+                },
+                {
+                    "name": "Datenstruktur und Java-Klassenbibliothek",
+                    "note": 1.0,
+                    "ects": 5
+                }
+            ]
+        },
+        {
+            "name": "3. Semester",
+            "module": [
+                {
+                    "name": "IT-Projektmanagement",
+                    "note": 1.0,
+                    "ects": 5
+                },
+                {
+                    "name": "Mobile Software Engineering",
+                    "note": 1,
+                    "ects": 5
+                },
+                {
+                    "name": "Ethik und Nachhaltigkeit in der IT",
+                    "note": 1.0,
+                    "ects": 5
+                },
+                {
+                    "name": "Programmierung industrieller Informationssysteme",
+                    "note": 3.0,
+                    "ects": 5
+                },
+                {
+                    "name": "Techniken und Methoden der agilen Softwareentwicklung",
+                    "note": 3.0,
+                    "ects": 5
+                }
+            ]
+        },
+        {
+            "name": "4. Semester",
+            "module": [
+                {
+                    "name": "Projekt Agile Software Engineering",
+                    "note": 0,
+                    "ects": 5
+                },
+                {
+                    "name": "IT-Servicemanagement",
+                    "note": 0,
+                    "ects": 5
+                },
+                {
+                    "name": "Projekt Software Engineering",
+                    "note": 0,
+                    "ects": 5
+                },
+                {
+                    "name": "Einführung in Datenschutz und IT-Sicherheit",
+                    "note": 1.0,
+                    "ects": 5
+                },
+                {
+                    "name": "Cloud Programming",
+                    "note": 0,
+                    "ects": 5
+                },
+                {
+                    "name": "IT-Infrastruktur",
+                    "note": 3.3,
+                    "ects": 5
+                }
+            ]
+        },
+        {
+            "name": "5. Semester",
+            "module": [
+                {
+                    "name": "Gestaltung und Ergonomie con User Interfaces",
+                    "note": 1.7,
+                    "ects": 5
+                },
+                {
+                    "name": "Einführung in Programmierung mit Python",
+                    "note": 2.7,
+                    "ects": 5
+                },
+                {
+                    "name": "Dev Ops und Conitnous Delivery",
+                    "note": 1.3,
+                    "ects": 5
+                },
+                {
+                    "name": "Projekt Software Development",
+                    "note": 0,
+                    "ects": 5
+                },
+                {
+                    "name": "Wahlpflichtmodul A-1",
+                    "note": 4.0,
+                    "ects": 5
+                },
+                {
+                    "name": "Wahlpflichtmodul A-2",
+                    "note": 3.7,
+                    "ects": 5
+                }
+            ]
+        },
+        {
+            "name": "6. Semester",
+            "module": [
+                {
+                    "name": "Wahlpflichtmodul B-1",
+                    "note": 0,
+                    "ects": 5
+                },
+                {
+                    "name": "Wahlpflichtmodul B-2",
+                    "note": 0,
+                    "ects": 5
+                },
+                {
+                    "name": "Wahlpflichtmodul C-1",
+                    "note": 0,
+                    "ects": 5
+                },
+                {
+                    "name": "Wahlpflichtmodul C-1",
+                    "note": 0,
+                    "ects": 5
+                },
+                {
+                    "name": "BA Arbeit",
+                    "note": 0,
+                    "ects": 10
+                }
+            ]
+        }
+    ]
+}
