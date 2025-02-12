@@ -1,5 +1,5 @@
 from flask import Flask, render_template  # Importiert Flask und die Funktion zum Rendern von HTML-Templates
-import pandas as pd  # Importiert Pandas (wird aber im aktuellen Code nicht genutzt)
+import pandas as pd  # Importiert Pandas
 from DatenManager import Datenmanager  # Importiert die Klasse zum Laden und Verwalten der Studiengang-Daten
 from Objects import Studiengang, Semester, Modul, Klausur, Portfolio, Projektbericht  # Importiert die relevanten Objekte für den Studiengang
 
